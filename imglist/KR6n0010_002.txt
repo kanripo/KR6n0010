@@ -1,0 +1,7 @@
+002-0940c00	T 002-0940c	buddhist/T-taisho/T85/09/T85-0940.png
+002-0941a00	T 002-0941a	buddhist/T-taisho/T85/09/T85-0941.png
+002-0941b00	T 002-0941b	buddhist/T-taisho/T85/09/T85-0941.png
+002-0941c00	T 002-0941c	buddhist/T-taisho/T85/09/T85-0941.png
+002-0942a00	T 002-0942a	buddhist/T-taisho/T85/09/T85-0942.png
+002-0942b00	T 002-0942b	buddhist/T-taisho/T85/09/T85-0942.png
+002-0942c00	T 002-0942c	buddhist/T-taisho/T85/09/T85-0942.png
