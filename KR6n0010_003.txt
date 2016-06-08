@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:34.242172
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 瑜伽論手記
 #+PROPERTY: CBETA_ID T85n2802
 #+PROPERTY: ID KR6n0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2802
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0010_T_000-0937c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0010_T_003-0942c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
@@ -14,15 +14,10 @@
 ¶
 ¶
 ¶
-
- 瑜伽論第三十三卷手記¶
+瑜伽論第三十三卷手記¶
 ¶
 
-得果瑜伽處初
-:PROPERTIES:
-:head: 第四得果瑜伽處初
-:END:
-¶
+* 第四得果瑜伽處初¶
 談述　福慧隨聽¶
 
 言廣辨二定者。謂無相滅盡二定也　言五¶

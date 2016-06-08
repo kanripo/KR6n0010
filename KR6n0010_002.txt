@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:34.222157
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 瑜伽論手記
 #+PROPERTY: CBETA_ID T85n2802
 #+PROPERTY: ID KR6n0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2802
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0010_T_000-0937c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0010_T_002-0940b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 瑜伽論第三十二卷手記¶
+瑜伽論第三十二卷手記¶
 ¶
 談述　福慧隨聽¶
 
