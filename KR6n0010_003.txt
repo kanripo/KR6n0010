@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:34.242172
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 瑜伽論手記
 #+PROPERTY: CBETA_ID T85n2802
 #+PROPERTY: ID KR6n0010
@@ -18,7 +18,7 @@
  瑜伽論第三十三卷手記¶
 ¶
 
-得果瑜伽處初
+* 得果瑜伽處初
 :PROPERTIES:
 :head: 第四得果瑜伽處初
 :END:

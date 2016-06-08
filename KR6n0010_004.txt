@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:34.270081
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 瑜伽論手記
 #+PROPERTY: CBETA_ID T85n2802
 #+PROPERTY: ID KR6n0010
